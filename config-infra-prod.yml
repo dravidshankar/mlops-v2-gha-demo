@@ -1,10 +1,10 @@
-namespace: mlopslite 
+namespace: ravi-ml-2june
 
 #Note: A namespace with many characters will cause storage
 account creation to fail due to storage account names having a limit of 24 charac‐
 ters.
  postfix: ao04
- location: westus
+ location: eastus
 
  environment: prod
  enable_aml_computecluster: true
